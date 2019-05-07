@@ -1,0 +1,27 @@
+[
+  {
+    "kapitel": "Kapitel 1",
+    "training": 23.5,
+    "quiz": 18.1
+  },
+  {
+    "kapitel": "Kapitel 2",
+    "training": 26.2,
+    "quiz": 90
+  },
+  {
+    "kapitel": "Kapitel 3",
+    "training": 30.1,
+    "quiz": 75
+  },
+  {
+    "kapitel": "Kapitel 4",
+    "training": 29.5,
+    "quiz": 70
+  },
+  {
+    "kapitel": "Kapitel 5",
+    "training": 24.6,
+    "quiz": 25
+  }
+]
